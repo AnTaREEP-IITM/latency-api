@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/metrics.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
